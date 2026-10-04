@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Ideas",
+  "attachmentFolderPath": "Attachments",
+  "showLineNumber": false,
+  "spellcheck": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "useMarkdownLinks": false
+}
